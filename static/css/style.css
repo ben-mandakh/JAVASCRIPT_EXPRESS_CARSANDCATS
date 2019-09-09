@@ -1,0 +1,20 @@
+.container h1{
+    color:white;
+    text-align:center;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.container h3{
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.main{
+    background-color: #259b9a;
+}
+img{
+    border-radius:50px;
+    width: 220px;
+    height: 180px;
+}
